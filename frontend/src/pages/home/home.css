@@ -1,0 +1,31 @@
+.title {
+     position: absolute;
+     font-size: 60px;
+     top: 35%;
+     left: 40%;
+}
+.para, .subtitle {
+     text-align: center;
+     padding-top: 20px;
+}
+.sub-collect, .commen, .collcet{
+     display: flex;
+     gap: 80px;
+     margin:0;
+     padding:0;
+     padding-top: 40px;
+    justify-content: center;
+}
+.image {
+     height: 200px;
+     border-radius: 50%;
+     display:flex;
+}
+.sub-container {
+     display:flex;
+     height: 100%;
+     margin:0;
+     padding:0;
+     background-image: url(../../Billeder/newsletterbg.jpg);
+
+}

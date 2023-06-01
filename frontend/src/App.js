@@ -1,9 +1,9 @@
 import React from 'react';
+import '../node_modules/bootstrap/dist/css/bootstrap.min.css'
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import Home from './pages/home/Home'
 import Login from './pages/login/Login'
 import Products from './pages/products/Products'
-import kontakt from './pages/kontakt/Kontakt'
 import Kontakt from './pages/kontakt/Kontakt';
 
 function App() {
